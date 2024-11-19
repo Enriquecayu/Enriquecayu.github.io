@@ -1,0 +1,45 @@
+header{
+    background-color: whitesmoke;
+}
+body{
+    background-color:rgb(255, 255, 255);
+    margin: 30px;
+    padding: 20px;
+}
+.contenedor-texto {
+    width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    .contenedor-texto h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+    margin-top: 0;
+    }
+    
+    .contenedor-texto h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #444;
+    margin-top: 40px;
+    }
+    
+    .contenedor-texto p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #666;
+    padding-bottom: 20px;
+    }
+footer{
+    background-color: black;
+}
+footer p{
+    color: white;
+    text-align: center;
+}
